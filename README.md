@@ -7,13 +7,16 @@ README
 Tu Tabla de Puntuación de Herramientas 📊
 
 Adapta y utiliza esta tabla de puntuación para cada herramienta que estés considerando. Los valores iniciales son ejemplos de la lección "Mis Herramientas de Vibe Coding Preferidas". Agrega tus propias herramientas a la lista y completa las calificaciones basándote en tu investigación y necesidades.
-Herramienta	UI/UX	Costo	Velocidad	Dependencia de Plataforma	Control	Mantenibilidad	Calidad del Código	Reutilización	Tu Calificación para Tus Necesidades. | Herramienta | UI/UX | Costo | Velocidad | Dependencia de Plataforma | Control | Mantenibilidad | Calidad del Código | Reutilización | Tu Calificación para Tus Necesidades (1-5) | Notas/Justificación |
+
+Adapta y utiliza esta tabla de puntuación para cada herramienta que estés considerando. Los valores iniciales son ejemplos de la lección "Mis Herramientas de Vibe Coding Preferidas". Agrega tus propias herramientas a la lista y completa las calificaciones basándote en tu investigación y necesidades.
+
+| Herramienta | UI/UX | Costo | Velocidad | Dependencia de Plataforma | Control | Mantenibilidad | Calidad del Código | Reutilización | Tu Calificación para Tus Necesidades (1-5) | Notas/Justificación |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | Vercel v0 | 5 | 3 | 5 | 2 | 2 | 1 | 5 | 1 | | |
 | Replit | 4 | 1 | 4 | 1 | 1 | 3 | 5 | 1 | | |
 | Lovable | 5 | 3 | 4 | ? | 3 | 3 | 4 | 1 | | |
 | Windsurf | 3 | 5 | 3 | 5 | 5 | 5 | 5 | 5 | | |
-| Cursor | 2 | 4 | 3 | 5 | 4 | 5 | 4 | 5 | | |		
+| Cursor | 2 | 4 | 3 | 5 | 4 | 5 | 4 | 5 | | |	
 Tu Herramienta A										
 Tu Herramienta B										
 Tu Herramienta C										
